@@ -1,0 +1,266 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.clr{
+	clear:both;
+}
+/* logo section 1 styling*/
+.logosection{
+	padding-left:30px;
+	background-color: white;
+}
+.logosection img{
+	padding-top: 7px;
+	padding-bottom: 7px;
+	height: 58px;
+	width: 58px;
+}
+.logosection a{
+	text-decoration: none;
+	padding-left: 20px;
+	margin-bottom: 50px;
+}
+
+.logotext{
+	position: absolute;
+	margin-top: 25px;
+	margin-left: 10px;
+	color: #2b5679;
+	font-size:20px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+/* section2 background image and form*/
+.bgimage{
+	background-image: url("../images/office.jpg");
+	background-image-resize:100%;
+}
+.bgimagecolor{
+	background-color: rgba(0,91,154,0.9);
+
+}
+
+.color{
+	background-color: rgba(0,91,154,0.9);
+}
+
+.para{
+	margin-top: 110px;
+	margin-left: 50px;
+	font-size: 24px;
+	color: black;
+	font-family: verdana;
+}
+.think{
+	font-size: 25px;
+}
+
+
+.format1{
+	color: white;
+	font-size: 25px;
+	font-family: arial;
+}
+
+.format2{
+	color: white;
+	font-size:13px;
+	font-family: arial;
+}
+.forms{
+	background-color: rgba(0,22,80,0.9);
+	padding: 10px;
+	padding-top: 15px;
+	padding-bottom: 25px;
+	padding-left: 25px;
+	margin-right: 120px;
+	margin-left: 50px;
+	margin-top: 50px;
+	margin-bottom: 45px;
+}
+.format{
+	margin-top: 12px;
+	padding: 8px;
+	color: gray;
+	width:90%;
+	
+}
+.formati{
+	margin-top: 12px;
+	padding: 8px;
+	color: gray;
+	padding-right: 100px;
+	
+}
+.submitbutton{
+	margin-top: 15px;
+	padding: 6px;
+	padding-left: 35px;
+	padding-right: 35px;
+	background-color: #00bef2;
+	border:2px solid #00bef2;
+	color: white;
+
+	font-family: arial;
+}
+/*section 3 left para and right para*/
+.lefttext{
+	padding-left: 50px;
+	font-size: 18px;
+	color: #5d6063;
+}
+.para1{
+	font-weight: bold;
+	font-size: 20px;
+	font-family: arial;
+	padding-top: 50px;
+	color: black;
+}
+.lefttext ul{
+	padding-top: 20px;
+	padding-left: 15px;
+	list-style-image: url("../images/blue.jpg");
+}
+
+.listele{
+	padding-bottom: 25px;
+	font-size: 18px;
+
+}
+.righttext{
+	padding-left: 30px;
+	font-size: 16px;
+	color: #5d6063;
+}
+.righttext ul{
+	list-style-image: url("../images/blue.jpg");
+	padding-left: 15px;
+}
+.para2{
+	font-weight: bold;
+	font-size: 17px;
+	font-family: arial;
+	padding-top: 50px;
+	color: black;
+	padding-bottom: 30px;
+}
+/*section4 -5 boxes styling*/
+.boxes{
+	background-color: #c4c4c4;	
+	padding-bottom: 65px;
+}
+
+.words{
+	text-align: center;
+	margin-top: 40px;
+	font-size: 27px;
+}
+.blank{
+	padding: 25px;
+}
+.cubes{
+text-align: center;
+color: white;
+font-size: 13px;
+padding-top: 30px;
+padding-left: 20px;
+}
+.cube1{
+	background-color: #714f8c;
+	margin-right: 20px;
+
+ 	padding-top:20px;
+	padding-bottom: 30px;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+.cube2{
+
+	background-color:#2e64ae;
+	margin-right: 20px;
+	padding-top:20px;
+	padding-bottom: 30px;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+.cube3{
+	background-color:#0e8ca3;
+	margin-right: 20px;
+	padding-top:20px;
+	padding-bottom: 30px;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+.cube4{
+
+	background-color:#933c6f;
+	margin-right: 20px;
+	padding-top:20px;
+	padding-bottom: 30px;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+.cube5{
+
+	background-color:#d94829;
+	margin-right: 20px;
+	padding-top:20px;
+	padding-bottom: 45px;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+.icon{
+	height: 55px;
+	width: 55px;
+}
+/* section6 learn more text*/
+.sometext{
+	text-align: center;
+	font-size: 20px;
+	padding: 20px;
+}
+/*section 7 footer*/
+.footer{
+	background-color: #363a3d;
+	color: #d8d9d9;
+	font-size: 12.5px;
+	padding-top: 20px;
+}
+.footer a{
+	text-decoration: none;
+	color: #d8d9d9;
+}
+.footer ul{
+	list-style-type: none;
+	padding: 10px;
+	padding-left: 60px;
+	padding-right: 60px;
+}
+.footer ul li{
+	padding-bottom: 15px;
+}
+/*section8 bottom social sites*/
+.bottom{
+	padding: 8px;
+	font-size: 11px;
+	font-family: arial;
+	background-color: black;
+	color:white;
+
+}
+.copyright{
+	float: left;
+	padding-left: 50px;
+}
+
+.policy{
+	float: left;
+	margin-left: 45px;
+}
+
+.socialsites{
+	float: right;
+	color:#006c89;
+	padding-right: 50px;
+}
